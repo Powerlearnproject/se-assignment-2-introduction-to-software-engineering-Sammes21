@@ -8,3 +8,35 @@ In general, mainly four levels of testing in software testing: Unit Testing, Sys
 Version control software keeps track of every modification to the code in a special kind of database. If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimizing disruption to all team members.GitHub,GitHub is a version control system and repository to host Git projects,Beanstalk,HelixCore,Apache Subversion,AWS CodeCommit,Microsoft Team Foundation Server
 Project Managers define project scope, set timelines, allocate resources, and monitor progress to keep projects on track. With technical expertise, leadership skills and knowledge of software development methodologies, they navigate complexities and deliver successful outcomes.The project management challenges most commonly faced by a project manager include the following:Misalignment between goals and business objectives,Communication,Lack of accountabilityResource allocation.,Scope creep,Project management software
 oftware maintenance is the process of changing, modifying, and updating software to keep up with customer needs. Software maintenance is done after the product has launched for several reasons including improving the software overall, correcting issues or bugs, to boost performance, and more.Software maintenance sustains operation, value, and evolution of software over its entire lifecycle. Maintenance activities become necessary after deployment to correct problems, meet changing needs, and keep systems operational.
+    Privacy Concerns: Developing software that collects and handles user data raises questions about privacy and data protection.
+        Example: Facebook's Cambridge Analytica scandal, where user data was improperly harvested for political purposes.
+
+    Bias in Algorithms: Creating algorithms that exhibit bias against certain groups can perpetuate discrimination.
+        Example: Amazon's recruiting tool that favored male candidates over female candidates due to biased training data.
+
+    Security Vulnerabilities: Overlooking security measures can result in data breaches and compromise user information.
+        Example: Equifax's breach in 2017, exposing sensitive personal data of millions of people due to a vulnerability in their software.
+
+    Intellectual Property Theft: Copying or using proprietary code without permission violates intellectual property rights.
+        Example: Google's legal battles with Oracle over the use of Java APIs in Android without proper authorization.
+
+    Misuse of Technology: Developing software that can be used for harmful purposes, such as surveillance or cyber attacks.
+        Example: The development of facial recognition technology used by authoritarian regimes for mass surveillance.
+
+To adhere to ethical standards, software engineers can:
+
+    Stay Informed: Keep up-to-date with ethical guidelines and industry best practices through continuous learning and participation in professional communities.
+
+    Ethical Design: Prioritize ethical considerations in the design phase, considering the potential impact of the software on users and society.
+
+    Transparency: Be transparent about how software operates, especially regarding data collection, processing, and usage.
+
+    Testing and Review: Conduct thorough testing and peer review processes to identify and address potential ethical issues before deployment.
+
+    Whistleblowing: Speak up against unethical practices within their organization and report any wrongdoing to relevant authorities or stakeholders.
+
+By following these practices, software engineers can contribute to the development of technology that aligns with ethical principles and respects the rights and well-being of users and society as a whole.
+
+References:
+
+    "Ethics in Software Engineering" by Ana Paula Terra Bacelo and Paulo Roberto Miranda Meirelles, ResearchGate.
